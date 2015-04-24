@@ -1,0 +1,17 @@
+#   
+# This is the .soft file.
+# It is used to customize your environment by setting up environment
+# variables such as PATH and MANPATH.
+# To learn what can be in this file, use 'man softenv'.
+#
+# This is .soft file on the eric cluster. Code doesn't work properly on 
+# other versions of fortran
+#_____________________________________
+#Works with no optimization Feb 2 2015
++intel-fc-11.1
++mvapich2-1.6rc1-intel-11.1
+@default
+
+
+
+
